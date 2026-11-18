@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://u673776673-eng.github.io/prince-digital-pdf/sitemap.xml
